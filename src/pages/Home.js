@@ -1,9 +1,10 @@
 import React from 'react';
+import Appheader from '../components/Appheader/Appheader';
 
 const Home = () => {
    return (
       <div>
-         <h1>TEST</h1>
+         <Appheader/>
       </div>
    );
 };
